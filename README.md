@@ -1,1 +1,1 @@
-# assignment-w7
+# week7-eduward
